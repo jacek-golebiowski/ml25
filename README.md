@@ -6,5 +6,5 @@ The original files were copied from the course materials, and I have filled in t
 Each chapter has its own folder, containing the corresponding exercises.  
 
 ## 📂 Structure
-- `linear/`
-- *(More folders will be added as the course progresses)*
+- `./linear/`
+- `./clustering/`
