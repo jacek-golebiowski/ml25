@@ -8,3 +8,4 @@ Each chapter has its own folder, containing the corresponding exercises.
 ## 📂 Structure
 - `./linear/`
 - `./clustering/`
+- `./trees/`
