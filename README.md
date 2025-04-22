@@ -9,3 +9,5 @@ Each chapter has its own folder, containing the corresponding exercises.
 - `./linear/`
 - `./clustering/`
 - `./trees/`
+- `./SVM/`
+- `./ensemble/`
