@@ -11,3 +11,4 @@ Each chapter has its own folder, containing the corresponding exercises.
 - `./trees/`
 - `./SVM/`
 - `./ensemble/`
+- `./NLP/`
